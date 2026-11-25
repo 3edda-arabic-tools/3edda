@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /3edda/search/
+
+Sitemap: https://3edda-arabic-tools.github.io/3edda/sitemap.xml

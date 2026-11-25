@@ -1,0 +1,3 @@
+/* إعدادات الإعلانات: الموقع لا يعرض أي إعلانات حاليًا. غيّر enabled إلى true فقط بعد قبول حسابك في برنامج إعلاني معتمد وإضافة الكود الرسمي في ads.js */
+window.EDDA_ADS={enabled:false};
+(function(){if(!window.EDDA_ADS||!window.EDDA_ADS.enabled)return;document.addEventListener("DOMContentLoaded",function(){document.querySelectorAll(".ad-slot").forEach(function(s){s.hidden=false;s.removeAttribute("aria-hidden")})})})();
